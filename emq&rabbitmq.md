@@ -107,6 +107,23 @@
 	
 	
 	
+### rabbitmq 集群搭建
+
+	
+	1： rabbitmq 搭建
+	
+	
+	cd /usr/local
+	
+	mkdir rabbitmq
+	
+	cd rabbitmq
+	
+	wget http://erlang.org/download/otp_src_20.3.tar.gz
+	
+	
+	
+	
 	
 	
 	
