@@ -96,5 +96,18 @@
 	
 	
 	
+	需要开放18083端口作为http dashboard的页面接口
+	需要开放1883端口作为tcp mqtt broker的端口
+	
+	export EMQ_NODE_NAME=emq@s1.emqtt.io && ./bin/emqttd start
+	
+	./bin/emqttd_ctl cluster join node1@10.0.8.5
+	
+	
+	
+	
+	
+	
+	
 	
 		
